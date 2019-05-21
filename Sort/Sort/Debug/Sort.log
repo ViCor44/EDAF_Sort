@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\victor\desktop\edaf_procuras\sort\sort\shellsort.h(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\victor\desktop\edaf_procuras\sort\sort\main.cpp(17): note: see reference to function template instantiation 'void shellSortOne<int>(T [],int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Sort.vcxproj -> C:\Users\Victor\Desktop\EDAF_Procuras\Sort\Debug\Sort.exe
